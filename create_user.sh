@@ -1,15 +1,13 @@
 #!/bin/bash
 #
-#############################################
-#
-#Name: Dare Ayoola
-#Script Name: create_user
-#Function: 
-#
-#
+##############################################
+#                                             #
+#Name: Dare Ayoola                            #
+#Script Name: create_user                     #
+#Function:                                    #
+#                                             #
+#                                             #
 ################################################
-
-
 
 # Check if input file is provided
 if [ -z "$1" ]; then
